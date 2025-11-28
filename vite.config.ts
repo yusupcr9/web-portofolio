@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/web-portofolio/',
   plugins: [react()],
+  base: '/web-portofolio/',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
