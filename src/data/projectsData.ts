@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: 'H.R.I.S',
     description: 'A modern Human Resource Information System for managing employees, attendance, and HR workflows.',
     fullDescription: 'A comprehensive Human Resource Information System (HRIS) built with modern web technologies to manage employee data, attendance, leave requests, payroll-related information, and performance reviews in one centralized platform. The system provides real-time insights for HR and management through dashboards, analytics, and automated workflows.',
-    image: 'public/berdikari/hris_app.png?auto=compress&cs=tinysrgb&w=800',
+    image: 'berdikari/hris_app.png?auto=compress&cs=tinysrgb&w=800',
     tags: ['HRIS', 'Odoo', 'Flutter', 'REST API'],
     gradient: 'from-emerald-500 to-cyan-500',
     category: 'Web & Mobile Application',
@@ -58,9 +58,9 @@ export const projects: Project[] = [
       tools: ['VS Code', 'Docker', 'Gitlab']
     },
     gallery: [
-      'public/berdikari/hris_app.png?auto=compress&cs=tinysrgb&w=800',
-      'public/berdikari/hris_dashboard.png?auto=compress&cs=tinysrgb&w=800',
-      'public/berdikari/hris_web.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/hris_app.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/hris_dashboard.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/hris_web.png?auto=compress&cs=tinysrgb&w=800',
     ]
   },
   {
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     title: 'Asset Management System',
     description: 'A modern web-based system for managing company assets, tracking usage, and monitoring asset lifecycle.',
     fullDescription: 'A comprehensive Asset Management System designed to help organizations track, maintain, and optimize the lifecycle of physical and digital assets. The system allows real-time monitoring of asset availability, assignment, maintenance schedules, depreciation tracking, and audit trails. Built with modern frameworks to ensure fast, secure, and scalable asset operations.',
-    image: 'public/berdikari/mail_app.png?auto=compress&cs=tinysrgb&w=800',
+    image: 'berdikari/mail_app.png?auto=compress&cs=tinysrgb&w=800',
     tags: ['Asset', 'Odoo', 'Flutter', 'REST API'],
     gradient: 'from-cyan-500 to-blue-500',
     category: 'Web & Mobile Application',
@@ -97,8 +97,8 @@ export const projects: Project[] = [
     },
     gallery: [
       'https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto=compress&cs=tinysrgb&w=800',
-      'public/berdikari/mail_data.png?auto=compress&cs=tinysrgb&w=800',
-      'public/berdikari/mail_dashboard.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/mail_data.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/mail_dashboard.png?auto=compress&cs=tinysrgb&w=800',
     ]
   },
   {
@@ -106,7 +106,7 @@ export const projects: Project[] = [
     title: 'Poultry Farm Management System',
     description: 'A management system for poultry farms to monitor flock performance, feed intake, and operational efficiency.',
     fullDescription: 'A Poultry Farm Management System designed to help farm owners and supervisors track all operational activities within a poultry farm. The system records bird population per flock, daily mortality, feed intake, vaccination schedules, weight progress, and harvest results. It also provides performance insights such as FCR, mortality rate, production index (IP), and cost efficiency per cycle.',
-    image: 'public/berdikari/fms_dashboard.png?auto=compress&cs=tinysrgb&w=800',
+    image: 'berdikari/fms_dashboard.png?auto=compress&cs=tinysrgb&w=800',
     tags: ['FMS', 'Poultry', 'Odoo'],
     gradient: 'from-green-500 to-emerald-500',
     category: 'Agriculture Application',
@@ -135,8 +135,8 @@ export const projects: Project[] = [
     },
     gallery: [
       '',
-      'public/berdikari/fms_excel.png?auto=compress&cs=tinysrgb&w=800',
-      'public/berdikari/fms_data.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/fms_excel.png?auto=compress&cs=tinysrgb&w=800',
+      'berdikari/fms_data.png?auto=compress&cs=tinysrgb&w=800',
     ]
   },
   {
