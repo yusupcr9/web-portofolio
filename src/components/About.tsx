@@ -19,7 +19,7 @@ export default function About() {
             <div className="relative bg-gray-800/40 backdrop-blur-xl border border-purple-500/30 rounded-3xl p-8 hover:border-cyan-500/50 transition-all duration-500">
               <div className="aspect-square rounded-2xl bg-gradient-to-br from-purple-600/20 to-cyan-600/20 mb-6 flex items-center justify-center overflow-hidden">
                 <img
-                  src="publc/profile.JPG"
+                  src="public/profile.JPG"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
