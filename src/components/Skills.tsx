@@ -4,37 +4,37 @@ const skills = [
   {
     icon: Code,
     name: 'Frontend',
-    techs: ['React', 'Vue', 'Next.js'],
+    techs: ['Node.js', 'Bootstrap'],
     color: 'from-purple-500 to-pink-500'
   },
   {
     icon: Smartphone,
     name: 'Mobile Dev',
-    techs: ['React Native', 'Flutter'],
+    techs: ['Flutter'],
     color: 'from-cyan-500 to-blue-500'
   },
   {
     icon: Database,
     name: 'Backend',
-    techs: ['Node.js', 'Python', 'Go'],
+    techs: ['Node.js', 'Python'],
     color: 'from-green-500 to-emerald-500'
   },
   {
     icon: Cpu,
     name: 'DevOps',
-    techs: ['Docker', 'AWS', 'CI/CD'],
+    techs: ['Docker', 'AWS'],
     color: 'from-orange-500 to-red-500'
   },
   {
     icon: Sparkles,
-    name: '3D Graphics',
-    techs: ['Three.js', 'WebGL', 'Blender'],
+    name: 'Tools',
+    techs: ['Git', 'VS Code'],
     color: 'from-yellow-500 to-amber-500'
   },
   {
     icon: Layers,
-    name: 'Design',
-    techs: ['Figma', 'Tailwind', 'Framer'],
+    name: 'Odoo',
+    techs: ['Technical', 'Functional'],
     color: 'from-indigo-500 to-purple-500'
   },
 ];

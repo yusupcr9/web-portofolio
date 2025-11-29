@@ -1,4 +1,4 @@
-import { Mail, Github, Twitter, Linkedin, Send } from 'lucide-react';
+import { Mail, Github, Twitter, Linkedin, Send, Instagram } from 'lucide-react';
 import { useState } from 'react';
 
 export default function Contact() {
@@ -14,10 +14,10 @@ export default function Contact() {
   };
 
   const socials = [
-    { icon: Github, href: '#', label: 'GitHub', color: 'hover:text-purple-400' },
-    { icon: Twitter, href: '#', label: 'Twitter', color: 'hover:text-cyan-400' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn', color: 'hover:text-blue-400' },
-    { icon: Mail, href: '#', label: 'Email', color: 'hover:text-pink-400' },
+    { icon: Github, href: 'https://github.com/yusupcr9', label: 'GitHub', color: 'hover:text-purple-400' },
+    { icon: Instagram, href: 'https://instagram.com/yspfrmnsyah', label: 'Instagram', color: 'hover:text-cyan-400' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/yusup-firmansyah-40456221b/', label: 'LinkedIn', color: 'hover:text-blue-400' },
+    { icon: Mail, href: 'mailto:yusupf.dev@gmail.com', label: 'Email', color: 'hover:text-pink-400' },
   ];
 
   return (

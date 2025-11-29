@@ -36,7 +36,7 @@ export default function About() {
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
-                  <span className="text-gray-400">Based in San Francisco</span>
+                  <span className="text-gray-400">Based in Jakarta</span>
                 </div>
               </div>
             </div>
